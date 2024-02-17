@@ -2,6 +2,8 @@
 
 This project performs sentiment analysis on a dataset of customer reviews using VADER sentiment analysis. It includes code to read the dataset, perform sentiment analysis, and visualize the results using bar plots.
 
+![Sentiment Analysis Plot](https://github.com/dkrishnakumar987/SentimentAnalysisPythonScript/blob/main/Sentiment_Analysis.png?raw=true)
+
 ## Credits
 
 The dataset used in this project, `Cell_Phones_and_Accessories_5.json`, is sourced from [source](https://www.kaggle.com/datasets/abdallahwagih/amazon-reviews). I would like to express my gratitude to the provider of this dataset for making it available for analysis.
