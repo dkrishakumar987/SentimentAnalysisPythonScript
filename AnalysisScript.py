@@ -39,8 +39,8 @@ TextContent = 'reviewText'
 
 # Reading Dataset(Change this to the specific dataset format)
 data = pd.read_json(file_path, lines=True)
-
 df = pd.DataFrame(data)
+
 # Limiting Sample Size to 500
 df = df.head(500)
 
