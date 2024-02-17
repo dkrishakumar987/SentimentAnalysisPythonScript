@@ -24,6 +24,8 @@ The dataset used in this project, `Cell_Phones_and_Accessories_5.json`, is sourc
 
 1. Clone the repository
 2. Install the required Python packages using `pip install -r requirements.txt`
+3. Download the Dataset from [here](https://www.kaggle.com/datasets/abdallahwagih/amazon-reviews) and extract it in the data directory
+4. Ensure the file name is the same as in the script
 
 ## Usage
 
