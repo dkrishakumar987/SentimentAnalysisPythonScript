@@ -2,7 +2,7 @@
 
 This project performs sentiment analysis on a dataset of customer reviews using VADER sentiment analysis. It includes code to read the dataset, perform sentiment analysis, and visualize the results using bar plots.
 
-![Sentiment Analysis Plot](https://github.com/dkrishnakumar987/SentimentAnalysisPythonScript/blob/main/Sentiment_Analysis.png?raw=true)
+![Sentiment Analysis Plot](https://github.com/dkrishakumar987/SentimentAnalysisPythonScript/blob/main/Sentiment_Analysis.png?raw=true)
 
 ## Credits
 
